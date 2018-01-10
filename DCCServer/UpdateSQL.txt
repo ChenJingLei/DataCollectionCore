@@ -1,0 +1,9 @@
+﻿ dotnet ef migrations add InitialCreate --context DCCServer.Data.ApplicationDbContext
+ dotnet ef migrations add InitialCreate --context IdentityServer4.EntityFramework.DbContexts.ConfigurationDbContext
+ dotnet ef migrations add InitialCreate --context IdentityServer4.EntityFramework.DbContexts.PersistedGrantDbContext
+
+ dotnet ef database update --context DCCServer.Data.ApplicationDbContext
+ dotnet ef database update --context IdentityServer4.EntityFramework.DbContexts.ConfigurationDbContex
+ dotnet ef database update --context IdentityServer4.EntityFramework.DbContexts.PersistedGrantDbContext
+
+ dotnet ef dbcontext list

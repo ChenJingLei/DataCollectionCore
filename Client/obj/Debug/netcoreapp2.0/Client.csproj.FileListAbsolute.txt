@@ -1,0 +1,11 @@
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\Client\obj\Debug\netcoreapp2.0\Client.pdb

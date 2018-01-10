@@ -1,0 +1,12 @@
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\bin\Debug\netcoreapp2.0\DCCServer.deps.json
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\bin\Debug\netcoreapp2.0\DCCServer.runtimeconfig.json
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\bin\Debug\netcoreapp2.0\DCCServer.runtimeconfig.dev.json
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\bin\Debug\netcoreapp2.0\DCCServer.dll
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\obj\Debug\netcoreapp2.0\DCCServer.csprojResolveAssemblyReference.cache
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\obj\Debug\netcoreapp2.0\DCCServer.csproj.CoreCompileInputs.cache
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\obj\Debug\netcoreapp2.0\DCCServer.AssemblyInfoInputs.cache
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\obj\Debug\netcoreapp2.0\DCCServer.AssemblyInfo.cs
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\bin\Debug\netcoreapp2.0\DCCServer.pdb
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\obj\Debug\netcoreapp2.0\DCCServer.dll
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\DCCServer\obj\Debug\netcoreapp2.0\DCCServer.pdb

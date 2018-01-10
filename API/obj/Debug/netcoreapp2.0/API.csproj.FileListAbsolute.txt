@@ -1,0 +1,11 @@
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\bin\Debug\netcoreapp2.0\API.dll
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\obj\Debug\netcoreapp2.0\API.dll
+C:\Users\cjl2020\Documents\Visual Studio 2017\Projects\DataCollectionCore\API\obj\Debug\netcoreapp2.0\API.pdb
